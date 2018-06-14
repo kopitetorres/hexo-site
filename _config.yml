@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: My Own Swordsman
 subtitle:
 description:
 keywords:
@@ -78,4 +78,7 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/kopitetorres/kopitetorres.github.io.git
+  branch: master
+  message: test
