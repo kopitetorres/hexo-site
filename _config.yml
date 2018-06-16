@@ -5,11 +5,11 @@
 # Site
 title: My Own Swordsman
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+description: 
+keywords: 陈岭 chenling
+author: Welkin Chan
+language: en
+timezone: Asia/Chungking
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
