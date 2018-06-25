@@ -1,6 +1,7 @@
 ---
 title: Hello World
 categories: "教程" 
+date: 2018-06-12 14:50:58
 tags: 
 	- hexo
 description: My First
